@@ -129,3 +129,4 @@ app.service('mainService', function($http, $q) {
 ```
 
 Now all of our user's first names are Ralf. While it isn't a very good real world example, it's good to see how we can manipulate things. $q!
+# mini-Users_3
